@@ -1,0 +1,88 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.logo{
+    margin-left: 100px;
+}
+.navo{
+    font-family: "Roboto", sans-serif;
+
+}
+#link{
+    font-size: 13px;
+    margin-left: 5px;
+    font-family: "Roboto", sans-serif;
+}
+#dropitem{
+    font-size: 13px;
+    font-family: "Roboto", sans-serif;
+}
+#button1{
+    font-size: 13px;
+    background-color: white;
+    margin-left: 450px;
+    font-family: "Roboto", sans-serif;
+}
+#button2{
+    font-family: "Roboto", sans-serif;
+    background-color: blue;
+}
+#landstart{
+    background-image: url(https://static.hbo.com/2024-05/house-of-the-dragon-s2-ka-1920.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    height: 550px;
+    width: 100%;
+    margin-top: 0px;
+}
+.bgcontent{
+    padding-top: 22%;
+    padding-left: 10%;
+    
+}
+.bgcontent p{
+    font-size: 18px;
+}
+
+.ptag{
+    font-size: 15px;
+    margin-left: -13px;
+}
+.titletag{
+    margin-left: -13px;
+}
+.descr{
+    margin-left: -13px;
+}
+.bluecol{
+    background: linear-gradient(to right, rgb(40, 40, 193),rgb(6, 6, 135));
+}
+.footerbanner{
+    background-image: url(https://i.iplsc.com/-/000JA68I3XGFRLOO-C461-F4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    height: 300px;
+    width: 100%;
+    margin-top: 0px;
+    opacity: .8;
+
+}
+.foot{
+    padding-top: 1%;
+    padding-left: 43%;
+}
+.foot2 h3{
+    padding-left: 42%;
+}
+.foot2 p{
+    padding-left: 35%;
+}
+.foot2 button{
+    margin-left: 45%;
+}
+.footermain{
+    background-color: gray;
+}
